@@ -1,0 +1,40 @@
+body {
+	background-image: url("../img/burger.png");
+}
+
+
+.headersMiddle {
+	text-align: center;
+	color: blue;
+}
+
+.burgerList {
+	
+	position: absolute;
+    background-color: gray;
+    width: 300px;
+    padding: 10px;
+    left: 10px;
+    
+}
+
+.devouredBurgers {
+	position: absolute;
+    width: 300px;
+    padding: 10px;
+    right: 10px;
+    background-color: gray;
+}
+
+.newBurger {
+	margin: auto;
+    width: 25%;
+    padding: 10px;
+    vertical-align: bottom;
+    text-align: center;
+    background-color: gray;
+}
+
+ul {
+    list-style-image: url('sqpurple.gif');
+}
